@@ -1,4 +1,4 @@
-package com.learnspringboot.quizapp;
+package com.learnspringboot.quizapp.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

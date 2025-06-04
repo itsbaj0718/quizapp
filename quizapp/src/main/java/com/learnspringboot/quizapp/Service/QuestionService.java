@@ -1,6 +1,6 @@
 package com.learnspringboot.quizapp.Service;
 
-import com.learnspringboot.quizapp.Question;
+import com.learnspringboot.quizapp.model.Question;
 import com.learnspringboot.quizapp.dao.QuestionDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
